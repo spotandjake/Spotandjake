@@ -31,14 +31,14 @@ My favourite project is my uncompleted programming language Brisk, I am building
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![goLang](https://img.shields.io/badge/-go-000?logo=go)
-![rust](https://img.shields.io/badge/-go-000?logo=rust)
+![rust](https://img.shields.io/badge/-rust-000?logo=rust)
 ![readonMl](https://img.shields.io/badge/-reason-000?logo=reason)
 ![ocaml](https://img.shields.io/badge/-ocaml-000?logo=ocaml)
 ## Languages I want To Learn
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![goLang](https://img.shields.io/badge/-go-000?logo=go)
-![rust](https://img.shields.io/badge/-go-000?logo=rust)
+![rust](https://img.shields.io/badge/-rust-000?logo=rust)
 ![readonMl](https://img.shields.io/badge/-reason-000?logo=reason)
 ![ocaml](https://img.shields.io/badge/-ocaml-000?logo=ocaml)
 
