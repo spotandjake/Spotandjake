@@ -3,8 +3,9 @@ Hi my name is Jake, I have been programming for approximatly 7 years, with an in
 
 # Brisk
 My favourite project is my uncompleted programming language Brisk, I am building it with the goal of educating myself on compiler design and low level webassembly, counter intuituvly its written primarly in Typescript with the linker portion being written in grain this is because Typescript is very similar to brisk syntactically and should make bootstrapping easier one day.
+
 # Interests
-- 🔭 I’m currently working on [Brisk](https://github.com/spotandjake/Brisk)!
+- 🔭 I’m currently working on [Brisk](https://github.com/spotandjake/Brisk) and [grain](https://github.com/grain-lang/Grain)!
 - 📫 How to reach me: Discord: Spotandjake#1510
 - ⚡ Fun fact: I love Typescript
 # Languages
