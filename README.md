@@ -6,7 +6,8 @@ My favourite project is my uncompleted programming language Brisk, I am building
 
 # Interests
 - 🔭 I’m currently working on [Brisk](https://github.com/spotandjake/Brisk) and [grain](https://github.com/grain-lang/Grain)!
-- 📫 How to reach me: Discord: Spotandjake#1510
+- 📫 How to reach me: 
+Discord: Spotandjake#1510
 - ⚡ Fun fact: I love Typescript
 # Languages
 ## Languages I Like To Use
