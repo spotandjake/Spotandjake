@@ -51,4 +51,4 @@ Discord: Spotandjake#1510
 
 [![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=Spotandjake&repo=Brisk&theme=algolia)](https://github.com/Spotandjake/Brisk)
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Spotandjake&theme=algolia&v=2)]([https://github.com/Spotandjake](https://wakatime.com/@Spotandjake))
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Spotandjake&theme=algolia&v=3)]([https://github.com/Spotandjake](https://wakatime.com/@Spotandjake))
