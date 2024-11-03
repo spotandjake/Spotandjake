@@ -9,9 +9,9 @@ My favoruite project is my uncompleted programming lanauge Brisk. The first iter
 
 # Interests
 - 🔭 I’m currently working on [Brisk](https://github.com/spotandjake/Brisk) and [grain](https://github.com/grain-lang/Grain)!
-- 📫 How to reach me: 
-Discord: Spotandjake#1510
-Here: Open an issue on my profile's repo and I'll respond when I can.
+- 📫 How to reach me:
+  - Discord: Spotandjake#1510
+  - Here: Open an issue on my profile's repo and I'll respond when I can.
 - ⚡ Fun fact: I used to be a mechanical engineer
 # Languages
 ## Languages I Like To Use
