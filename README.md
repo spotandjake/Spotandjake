@@ -52,5 +52,5 @@ My favoruite project is my uncompleted programming lanauge Brisk. The first iter
 <br>
 If the wakatime stats are not working check out my profile [here](https://wakatime.com/@Spotandjake)
 <br>
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Spotandjake&theme=algolia&v=3)]([https://github.com/Spotandjake](https://wakatime.com/@Spotandjake))
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Spotandjake&theme=algolia&v=4)]([https://github.com/Spotandjake](https://wakatime.com/@Spotandjake))
 
