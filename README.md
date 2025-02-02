@@ -1,5 +1,7 @@
 # About Me
 
+Research Garden: https://spotandjake.github.io/quartz/
+
 Hi my name is Jake, I am currently a computer science student at Trent University. I have been programming since I was 7 so around 12 years now, working on a wide range of projects in various different fields. I used to work primarily in the Javascript world on web development and server side development, in 2019 I got hooked on the world of compiler and programming language design. Currently I have been working on the [Grain programming language](https://github.com/grain-lang/Grain) and designing the next iteration of the [Brisk](https://github.com/spotandjake/Brisk) programming language. I have particular interests in: functional programming, typechecking and designing safe and expressive code.
 
 # Engineering
