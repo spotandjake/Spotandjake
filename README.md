@@ -2,7 +2,7 @@
 
 Research Garden: https://spotandjake.github.io/quartz/
 
-Hi my name is Jake, I am currently a computer science student at Trent University. I have been programming since I was 7 so around 12 years now, working on a wide range of projects in various different fields. I used to work primarily in the Javascript world on web development and server side development, in 2019 I got hooked on the world of compiler and programming language design. Currently I have been working on the [Grain programming language](https://github.com/grain-lang/Grain) and designing the next iteration of the [Brisk](https://github.com/spotandjake/Brisk) programming language. I have particular interests in: functional programming, typechecking and designing safe and expressive code.
+Hi my name is Jake, I am currently a computer science student at Trent University. I have been programming since I was 7 so around 13 years now, working on a wide range of projects in various different fields. I used to work primarily in the Javascript world on web development and server side development, in 2019 I got hooked on the world of compiler and programming language design. Currently I have been working on the [Grain programming language](https://github.com/grain-lang/Grain) and designing the next iteration of the [Brisk](https://github.com/spotandjake/Brisk) programming language. I have particular interests in: functional programming, typechecking and designing safe and expressive code.
 
 # Engineering
 
@@ -60,13 +60,8 @@ My favorite project is my uncompleted programming language Brisk. The first iter
 
 ![Stats](./profile/stats.svg)
 
-![Top Langs](./profile/top-langs.svg)
+| [ ![ Grain ]( ./profile/pin-grain.svg ) ]( https://github.com/grain-lang/grain ) | [ ![ Brisk ]( ./profile/pin-brisk.svg ) ]( https://github.com/Spotandjake/Brisk ) |
+|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 
-[![Brisk](./profile/pin-brisk.svg)](https://github.com/Spotandjake/Brisk)
-
-[![Grain](./profile/pin-grain.svg)](https://github.com/grain-lang/grain)
-
-<br>
-If the Wakatime stats are not working check out my profile [here](https://wakatime.com/@Spotandjake)
-<br>
-[![Wakatime stats](./profile/wakatime.svg)](<[https://github.com/Spotandjake](https://wakatime.com/@Spotandjake)>)
+| ![ Top Langs ]( ./profile/top-langs.svg ) | [ ![ If the Wakatime stats are not working check out my profile ]( ./profile/wakatime.svg ) ]( https://wakatime.com/@Spotandjake ) |
+|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
