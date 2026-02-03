@@ -58,12 +58,15 @@ My favorite project is my uncompleted programming language Brisk. The first iter
 
 # Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Spotandjake&show_icons=true&theme=algolia)](https://github.com/Spotandjake)
+![Stats](./profile/stats.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spotandjake&theme=algolia&langs_count=8)](https://github.com/Spotandjake)
+![Top Langs](./profile/top-langs.svg)
 
-[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=Spotandjake&repo=Brisk&theme=algolia)](https://github.com/Spotandjake/Brisk)
+[![Brisk](./profile/pin-brisk.svg)](https://github.com/Spotandjake/Brisk)
+
+[![Grain](./profile/pin-grain.svg)](https://github.com/grain-lang/grain)
+
 <br>
 If the Wakatime stats are not working check out my profile [here](https://wakatime.com/@Spotandjake)
 <br>
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Spotandjake&theme=algolia&v=4)](<[https://github.com/Spotandjake](https://wakatime.com/@Spotandjake)>)
+[![Wakatime stats](./profile/wakatime.svg)](<[https://github.com/Spotandjake](https://wakatime.com/@Spotandjake)>)
