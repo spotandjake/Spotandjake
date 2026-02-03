@@ -60,8 +60,6 @@ My favorite project is my uncompleted programming language Brisk. The first iter
 
 ![Stats](./profile/stats.svg)
 
-| [ ![ Grain ]( ./profile/pin-grain.svg ) ]( https://github.com/grain-lang/grain ) | [ ![ Brisk ]( ./profile/pin-brisk.svg ) ]( https://github.com/Spotandjake/Brisk ) |
-|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-
-| ![ Top Langs ]( ./profile/top-langs.svg ) | [ ![ If the Wakatime stats are not working check out my profile ]( ./profile/wakatime.svg ) ]( https://wakatime.com/@Spotandjake ) |
-|-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| [   ![  Grain  ](   ./profile/pin-grain.svg   )   ](   https://github.com/grain-lang/grain   ) | [   ![  Brisk  ](   ./profile/pin-brisk.svg   )   ](   https://github.com/Spotandjake/Brisk   ) |
+|---|---|
+| ![  Top Langs  ](   ./profile/top-langs.svg   ) | [   ![  If the Wakatime stats are not working check out my profile  ](   ./profile/wakatime.svg   )   ](   https://wakatime.com/@Spotandjake   ) |--------------------------------------------------------------------------------------------------|
