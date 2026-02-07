@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Spotandjake's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 59, Total Commits  (last year) : 264, Total PRs: 471, Total Issues: 318, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 59, Total Commits  (last year) : 271, Total PRs: 472, Total Issues: 319, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 61.539691497749686;
+        stroke-dashoffset: 61.151106858670154;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >264</text>
+      >271</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >471</text>
+      >472</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >318</text>
+      >319</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
