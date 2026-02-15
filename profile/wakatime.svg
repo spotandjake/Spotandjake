@@ -130,7 +130,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#FFFFFF"></rect>
-      <svg data-testid="lang-progress" width="33.43%">
+      <svg data-testid="lang-progress" width="33.34%">
         <rect
             height="8"
             fill="#00AEFF"
@@ -153,7 +153,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#FFFFFF"></rect>
-      <svg data-testid="lang-progress" width="12.95%">
+      <svg data-testid="lang-progress" width="12.91%">
         <rect
             height="8"
             fill="#00AEFF"
@@ -176,7 +176,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#FFFFFF"></rect>
-      <svg data-testid="lang-progress" width="12.18%">
+      <svg data-testid="lang-progress" width="12.14%">
         <rect
             height="8"
             fill="#00AEFF"
@@ -195,11 +195,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >155 hrs 31 mins</text>
+      >155 hrs 50 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#FFFFFF"></rect>
-      <svg data-testid="lang-progress" width="8.57%">
+      <svg data-testid="lang-progress" width="8.56%">
         <rect
             height="8"
             fill="#00AEFF"
@@ -218,11 +218,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >90 hrs 35 mins</text>
+      >92 hrs 18 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#FFFFFF"></rect>
-      <svg data-testid="lang-progress" width="4.99%">
+      <svg data-testid="lang-progress" width="5.07%">
         <rect
             height="8"
             fill="#00AEFF"
@@ -245,7 +245,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#FFFFFF"></rect>
-      <svg data-testid="lang-progress" width="4.91%">
+      <svg data-testid="lang-progress" width="4.89%">
         <rect
             height="8"
             fill="#00AEFF"
@@ -268,7 +268,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#FFFFFF"></rect>
-      <svg data-testid="lang-progress" width="3.7%">
+      <svg data-testid="lang-progress" width="3.69%">
         <rect
             height="8"
             fill="#00AEFF"
@@ -287,7 +287,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >60 hrs 8 mins</text>
+      >60 hrs 25 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#FFFFFF"></rect>
@@ -333,11 +333,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >40 hrs 58 mins</text>
+      >41 hrs 15 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#FFFFFF"></rect>
-      <svg data-testid="lang-progress" width="2.25%">
+      <svg data-testid="lang-progress" width="2.26%">
         <rect
             height="8"
             fill="#00AEFF"
@@ -356,7 +356,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >37 hrs 47 mins</text>
+      >37 hrs 48 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#FFFFFF"></rect>
@@ -650,12 +650,12 @@
     </g>
   </g><g transform="translate(0, 575)">
     <g class="stagger" style="animation-delay: 3900ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="ANTLR">ANTLR:</text>
+      <text class="stat bold" y="12.5" data-testid="C++">C++:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >4 hrs 49 mins</text>
+      >5 hrs 1 min</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#FFFFFF"></rect>
@@ -673,12 +673,12 @@
     </g>
   </g><g transform="translate(0, 600)">
     <g class="stagger" style="animation-delay: 4050ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Astro">Astro:</text>
+      <text class="stat bold" y="12.5" data-testid="ANTLR">ANTLR:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >4 hrs 16 mins</text>
+      >4 hrs 49 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#FFFFFF"></rect>
