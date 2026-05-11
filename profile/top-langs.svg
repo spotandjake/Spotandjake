@@ -122,11 +122,11 @@
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">C#</text>
-      <text x="215" y="34" class="lang-name">62.20%</text>
+      <text x="215" y="34" class="lang-name">62.18%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="62.203573316695795%">
+      <svg data-testid="lang-progress" width="62.17566435981181%">
         <rect
             height="8"
             fill="#178600"
@@ -145,7 +145,7 @@
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="18.644211056754294%">
+      <svg data-testid="lang-progress" width="18.635845934707852%">
         <rect
             height="8"
             fill="#3178c6"
@@ -160,11 +160,11 @@
   </g><g transform="translate(0, 80)">
     <g class="stagger" style="animation-delay: 750ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">Rust</text>
-      <text x="215" y="34" class="lang-name">4.79%</text>
+      <text x="215" y="34" class="lang-name">4.80%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="4.7890499940292335%">
+      <svg data-testid="lang-progress" width="4.7952577586578995%">
         <rect
             height="8"
             fill="#dea584"
@@ -179,11 +179,11 @@
   </g><g transform="translate(0, 120)">
     <g class="stagger" style="animation-delay: 900ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">HTML</text>
-      <text x="215" y="34" class="lang-name">4.33%</text>
+      <text x="215" y="34" class="lang-name">4.32%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="4.325103578694416%">
+      <svg data-testid="lang-progress" width="4.323163028934003%">
         <rect
             height="8"
             fill="#e34c26"
@@ -198,11 +198,11 @@
   </g><g transform="translate(0, 160)">
     <g class="stagger" style="animation-delay: 1050ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">JavaScript</text>
-      <text x="215" y="34" class="lang-name">4.27%</text>
+      <text x="215" y="34" class="lang-name">4.26%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="4.268240231405496%">
+      <svg data-testid="lang-progress" width="4.262872106240018%">
         <rect
             height="8"
             fill="#f1e05a"
@@ -387,15 +387,15 @@
     </g>
   </g><g transform="translate(0, 560)">
     <g class="stagger" style="animation-delay: 2550ms">
-      <text data-testid="lang-name" x="2" y="15" class="lang-name">ANTLR</text>
-      <text x="215" y="34" class="lang-name">0.08%</text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">Tree-sitter Query</text>
+      <text x="215" y="34" class="lang-name">0.12%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
       <svg data-testid="lang-progress" width="2%">
         <rect
             height="8"
-            fill="#9DC3FF"
+            fill="#8ea64c"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 2850ms;"
@@ -406,7 +406,7 @@
     </g>
   </g><g transform="translate(0, 600)">
     <g class="stagger" style="animation-delay: 2700ms">
-      <text data-testid="lang-name" x="2" y="15" class="lang-name">Tree-sitter Query</text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">ANTLR</text>
       <text x="215" y="34" class="lang-name">0.08%</text>
       
     <svg width="205" x="0" y="25">
@@ -414,7 +414,7 @@
       <svg data-testid="lang-progress" width="2%">
         <rect
             height="8"
-            fill="#8ea64c"
+            fill="#9DC3FF"
             rx="5" ry="5" x="0" y="0"
             class="lang-progress"
             style="animation-delay: 3000ms;"
