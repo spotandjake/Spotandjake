@@ -135,11 +135,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >702 hrs 49 mins</text>
+      >703 hrs 15 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="32.75%">
+      <svg data-testid="lang-progress" width="32.68%">
         <rect
             height="8"
             
@@ -158,11 +158,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >261 hrs 47 mins</text>
+      >261 hrs 54 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="12.2%">
+      <svg data-testid="lang-progress" width="12.17%">
         <rect
             height="8"
             
@@ -185,7 +185,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="11.52%">
+      <svg data-testid="lang-progress" width="11.49%">
         <rect
             height="8"
             
@@ -204,11 +204,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >178 hrs 21 mins</text>
+      >183 hrs 12 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="8.31%">
+      <svg data-testid="lang-progress" width="8.52%">
         <rect
             height="8"
             
@@ -231,7 +231,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="6.38%">
+      <svg data-testid="lang-progress" width="6.35%">
         <rect
             height="8"
             
@@ -254,7 +254,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="5.24%">
+      <svg data-testid="lang-progress" width="5.23%">
         <rect
             height="8"
             
@@ -277,7 +277,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="4.88%">
+      <svg data-testid="lang-progress" width="4.87%">
         <rect
             height="8"
             
@@ -296,11 +296,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >76 hrs 22 mins</text>
+      >76 hrs 24 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="3.56%">
+      <svg data-testid="lang-progress" width="3.55%">
         <rect
             height="8"
             
@@ -323,7 +323,7 @@
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
-      <svg data-testid="lang-progress" width="2.25%">
+      <svg data-testid="lang-progress" width="2.24%">
         <rect
             height="8"
             
@@ -429,12 +429,12 @@
     </g>
   </g><g transform="translate(0, 325)">
     <g class="stagger" style="animation-delay: 2400ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="WebAssembly">WebAssembly:</text>
+      <text class="stat bold" y="12.5" data-testid="OCaml">OCaml:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >18 hrs 15 mins</text>
+      >18 hrs 16 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
@@ -452,12 +452,12 @@
     </g>
   </g><g transform="translate(0, 350)">
     <g class="stagger" style="animation-delay: 2550ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="OCaml">OCaml:</text>
+      <text class="stat bold" y="12.5" data-testid="WebAssembly">WebAssembly:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >18 hrs 6 mins</text>
+      >18 hrs 15 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
@@ -595,7 +595,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >8 hrs 3 mins</text>
+      >8 hrs 29 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="220" height="8"></rect>
