@@ -2,23 +2,35 @@
 
 Research Garden: https://spotandjake.github.io/quartz/
 
-Hi my name is Jake, I am currently a computer science student at Trent University. I have been programming since I was 7 so around 13 years now, working on a wide range of projects in various different fields. I used to work primarily in the Javascript world on web development and server side development, in 2019 I got hooked on the world of compiler and programming language design. Currently I have been working on the [Grain programming language](https://github.com/grain-lang/Grain) and designing the next iteration of the [Brisk](https://github.com/spotandjake/Brisk) programming language. I have particular interests in: functional programming, typechecking and designing safe and expressive code.
+Hello, my name is Jake. I am currently a computer science undergraduate at Trent University. I have been interested in programming since I was around seven and grew up in the open-source community, working on a wide range of projects across different fields. I started my development journey with JavaScript and full-stack development. In 2019, I became fascinated by compilers and programming language design after discovering Grain. I am now a core team member of the [Grain programming language](https://github.com/grain-lang/Grain), contributing to various parts of the language and its ecosystem. Outside of Grain, I spend much of my time researching compilers, with particular interests in functional programming, type systems, typechecking, and designing safe and expressive languages.
 
-# Engineering
+## Compilers & Brisk
 
-I was introduced to the world of engineering when I was young and quickly excelled, I used to work primarily in quality control though I have worked through various different job positions, projects and companies.
+Outside of Grain, I have written several compilers, including a basic optimizing compiler for my third-year [AMOD-4901](https://github.com/spotandjake/amod-4901) reading course. However, my favourite compiler project is my unfinished and ever-evolving programming language, [Brisk](https://github.com/spotandjake/Brisk).
 
-# Brisk
+I started working on Brisk before I discovered Grain, originally as a way to introduce myself to compiler design. The current version is my second major iteration and was the first time I built a complete multipass compiler from scratch. Heavily inspired by TypeScript, it compiles directly to WebAssembly. Aside from [Chevrotain](https://github.com/Chevrot/chevrotain), which I use for parsing, the compiler and its supporting infrastructure are built from scratch.
 
-My favorite project is my uncompleted programming language Brisk. The first iteration has been lost in the sands of time but the goal was to introduce myself to compiler design. The current version in the [Brisk Repo](https://github.com/spotandjake/Brisk) is the 2nd major iteration, it is heavily inspired by Typescript and compiles directly to Webassembly. I have big plans on the horizon as I plan on rewriting the entire project from scratch in Grain with a focus on learning about academic features such as: Hindley-Milner typechecking, wasm component model, and concurrent compiler design, the end goal will be a language similar to Grain but with a combination of abstractions that make it more expressive, reduce abstraction and ride the line between correctness and features.
+As part of Brisk, I also wrote [BriskLinker](https://github.com/spotandjake/BriskLinker), a WebAssembly linker written entirely in Grain. It links WebAssembly modules through a defined ABI designed to make interoperability with other languages straightforward, giving me the opportunity to explore the lower-level details of WebAssembly modules and linking.
 
-# Interests
+While active development on Brisk has slowed down, I have spent the last few years designing a third major iteration focused on simplicity, design unification, typechecking, and higher-level abstractions. Much of this work currently lives in the Brisk section of my [knowledge garden](https://spotandjake.github.io/quartz/Brisk/Brisk).
 
-- 🔭 I’m currently working on [Brisk](https://github.com/spotandjake/Brisk) and [grain](https://github.com/grain-lang/Grain)!
+## Problem Solving
+
+While I love working on compilers, I really enjoy solving problems wherever they appear. Working on Grain has given me experience across a surprisingly broad ecosystem, including OCaml, Reason, Rust, Swift, C, C++, JavaScript, TypeScript, Grain, and a variety of build systems and tooling. I've also spent a lot of time tracking down CI, build, and infrastructure problems, which has taught me to debug systems across multiple layers.
+
+Outside of my main projects, I also enjoy building things simply because they're interesting, from dynamic webpages using only HTML and CSS to graphics experiments and other deliberately impractical projects.
+
+## Engineering
+
+Another interesting part of my background is that I started out in engineering. I was introduced to the world of metrology at a young age and grew up working across a variety of industries in quality control. Over the years, I have gained hands-on experience with a wide range of manufacturing technologies, from 3D printing and laser cutting to operating CNC machines and coordinate measuring machines (CMMs).
+
+## Interests
+
+- 🔭 I currently spend most of my time working on Grain and designing the next iteration of Brisk.
 - 📫 How to reach me:
   - Discord: spotandjake
-  - Here: Open an issue on my profile's repo and I'll respond when I can.
-- ⚡ Fun fact: I used to be a mechanical engineer
+  - GitHub: Open an issue on my profile repository and I'll respond when I can.
+- ⚡ Fun fact: Despite my love of compilers, I actually really enjoy high-level programming.
 
 # Languages
 
@@ -26,6 +38,7 @@ My favorite project is my uncompleted programming language Brisk. The first iter
 
 ![Grain](https://img.shields.io/badge/-Grain-000)
 ![reasonMl](https://img.shields.io/badge/-reason-000?logo=reason)
+![ocaml](https://img.shields.io/badge/-ocaml-000?logo=ocaml)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![wasm](https://img.shields.io/badge/-wasm-000?logo=webassembly)
@@ -46,15 +59,14 @@ My favorite project is my uncompleted programming language Brisk. The first iter
 ![html](https://img.shields.io/badge/-html-000?logo=html5)
 ![css](https://img.shields.io/badge/-css-000?logo=css3)
 ![scss](https://img.shields.io/badge/-scss-000?logo=sass)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 
 ## Languages I Have Written
 
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![goLang](https://img.shields.io/badge/-go-000?logo=go)
 ![rust](https://img.shields.io/badge/-rust-000?logo=rust)
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-![ocaml](https://img.shields.io/badge/-ocaml-000?logo=ocaml)
 
 # Stats
 
